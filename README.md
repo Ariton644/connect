@@ -5,7 +5,6 @@
 ### 🚀 Быстрее мысли | 🔒 Безопасно | 📱 Мгновенно
 
 ![Android](https://img.shields.io/badge/Android-6%2B-brightgreen?style=flat-square&logo=android)
-![Version](https://img.shields.io/badge/Версия-4.BETA-blue?style=flat-square)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/connect_world_messenger)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.com/connectmessenger)
 
